@@ -1,0 +1,6 @@
+#initialize Variables
+
+USERNAME = "gmail_Address"
+PASSWORD = "gmail_Password"
+LABEL = "gmail_Label"
+SOUND = "heron.wav" #or replace with your own
