@@ -37,6 +37,12 @@ If a new subscription is found, it will then play a bird sound, spin a spirograp
 
 
 3. Let 'er Rip!
-- Send emails to your Account with unique Subjects that match the Label criteria you set up above for testing, and either run $sudo python chirpy.py OR wait for the crontab to run and pick up the emails
-- Suggestions? Improvements? Let me know!
+----------------
+- Send emails to your Account with unique Subjects that match the Label criteria you set up above for testing
+- either run $ sudo python chirpy.py OR wait for the crontab to run and pick up the emails
+
+
+
+Suggestions? Improvements? Let me know!
+========================================
 
