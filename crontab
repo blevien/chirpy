@@ -1,0 +1,5 @@
+# Create this file on the pi command line by typing: $ crontab -e
+# Add this line to the new file, or your existing crontab
+# Also make sure you change the CD to the directory where you cloned chirpy!
+
+*/1 * * * * cd ~/projects/chirpy && sudo python chirpy.py
