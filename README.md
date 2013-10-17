@@ -30,7 +30,7 @@ If a new subscription is found, it will then play a bird sound, spin a spirograp
 
 2. Setup Code:
 ------------
-- Clone this repo
+- Clone this repo directly to your Pi using [git-core](http://quick2wire.com/articles/a-gentle-guide-to-git-and-github/) or clone to your computer and copy over to your Pi ([NAS](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=36&t=26826), [VSFTP](http://elinux.org/RPi_Noob_Guide_for_Wheezy_and_vsftpd#Installing_vsftpd_.26_Editing_the_vsftpd.conf_), or other...?
 - Modify local.py.example to local.py and add your gmail credentials & Label you want to use to trigger Chirpy
 - Optional: Add crontab entry (Sample provided with instructions in the comments) to run this code at a specific interval
 - Optional: Create Google Spreadhseet to run gmailMarkReadMidnight.js at midnight (See comments in .js file for instructions)
